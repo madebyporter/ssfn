@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="52px" viewBox="0 0 124 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>gigmor-icon-findgigs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C9E66F" offset="0%"></stop>
+            <stop stop-color="#C2E168" offset="49.1826228%"></stop>
+            <stop stop-color="#B0D755" offset="50.8300217%"></stop>
+            <stop stop-color="#A9E043" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gigmor-landing-desktop-copy-11" transform="translate(-335.000000, -3385.000000)">
+            <g id="Group-6" transform="translate(97.000000, 2469.000000)">
+                <g id="Group-23" transform="translate(123.000000, 851.000000)">
+                    <g id="Group-3">
+                        <g id="gigmor-icon-findgigs" transform="translate(115.000000, 65.000000)">
+                            <rect id="Rectangle-16" stroke="#09525E" stroke-width="3" fill="url(#linearGradient-1)" x="1.5" y="1.5" width="121" height="49" rx="2"></rect>
+                            <circle id="Oval-7" fill="#FFFFFF" style="mix-blend-mode: soft-light;" cx="101" cy="26" r="10"></circle>
+                            <path d="M102.750668,24.3633555 C102.262263,24.3633555 101.788693,23.8907038 101.788693,23.1867159 C101.788693,23.0760699 101.803495,22.9554121 101.825698,22.8447983 L101.744287,22.8447983 C100.552943,22.8045575 99.5169574,24.5946593 99.5169574,26.1433809 C99.5169574,27.5814888 100.382719,28.1245458 101.322524,28.1245458 L101.99589,25.5701595 L103.342656,25.5701595 C103.039245,26.726711 102.743267,27.8932419 102.44729,29.0497934 C102.166082,30.1157869 101.492683,30.1862245 100.789712,30.1359073 L101.122728,28.9089829 C99.8277695,28.9089829 98,28.4766043 98,26.2339066 C98,25.6405648 98.1553898,25.047223 98.3773891,24.5343304 C99.1099641,22.8648864 100.545542,22 101.944083,22 L102.750668,22 C103.23164,22 103.712644,22.5028485 103.712644,23.1867159 C103.712644,23.8907038 103.239041,24.3633555 102.750668,24.3633555" id="Combined-Shape" fill="#09525E"></path>
+                            <circle id="Oval-7" fill="#FFFFFF" style="mix-blend-mode: soft-light;" cx="23" cy="26" r="10"></circle>
+                            <path d="M24.7506683,24.3633555 C24.2622633,24.3633555 23.7886929,23.8907038 23.7886929,23.1867159 C23.7886929,23.0760699 23.8034951,22.9554121 23.8256983,22.8447983 L23.7442866,22.8447983 C22.5529434,22.8045575 21.5169574,24.5946593 21.5169574,26.1433809 C21.5169574,27.5814888 22.3827189,28.1245458 23.3225237,28.1245458 L23.9958901,25.5701595 L25.3426557,25.5701595 C25.0392446,26.726711 24.7432672,27.8932419 24.4472899,29.0497934 C24.166082,30.1157869 23.492683,30.1862245 22.7897123,30.1359073 L23.1227276,28.9089829 C21.8277695,28.9089829 20,28.4766043 20,26.2339066 C20,25.6405648 20.1553898,25.047223 20.3773891,24.5343304 C21.1099641,22.8648864 22.5455423,22 23.9440827,22 L24.7506683,22 C25.2316397,22 25.7126437,22.5028485 25.7126437,23.1867159 C25.7126437,23.8907038 25.2390408,24.3633555 24.7506683,24.3633555" id="Combined-Shape" fill="#09525E"></path>
+                            <circle id="Oval-7" fill="#FFFFFF" style="mix-blend-mode: soft-light;" cx="62" cy="26" r="16"></circle>
+                            <text id="$" font-family="AmericanTypewriter-Bold, American Typewriter" font-size="31" font-weight="bold" fill="#09525E">
+                                <tspan x="52" y="36">$</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

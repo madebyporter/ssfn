@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="77px" viewBox="0 0 132 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-findtalent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gigmor-landing-desktop-copy-11" transform="translate(-334.000000, -1670.000000)">
+            <g id="Group-13" transform="translate(95.000000, 771.000000)">
+                <g id="Group-8" transform="translate(125.000000, 847.000000)">
+                    <g id="Group-3">
+                        <g id="Group-37" transform="translate(61.000000, 52.000000)">
+                            <g id="icon-findtalent" transform="translate(53.000000, 0.000000)">
+                                <g id="Group-27">
+                                    <rect id="Rectangle-6" fill="#4D4343" x="0" y="0" width="132" height="77" rx="4"></rect>
+                                    <rect id="Rectangle-6" fill="#4D4343" x="4" y="15" width="124" height="58" rx="2"></rect>
+                                    <g id="Group-28" transform="translate(8.000000, 19.000000)">
+                                        <rect id="Rectangle-10" fill="#807878" x="25" y="0" width="27.6700001" height="29" rx="2"></rect>
+                                        <g id="Group-40" transform="translate(29.000000, 4.000000)" fill="#999494">
+                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
+                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="2" rx="1"></rect>
+                                            <rect id="Rectangle-9" x="1" y="19" width="18" height="2" rx="1"></rect>
+                                        </g>
+                                        <rect id="Rectangle-10" fill="#FFC12F" x="57" y="0" width="27.6700001" height="29" rx="2"></rect>
+                                        <g id="Group-40" transform="translate(61.000000, 4.000000)">
+                                            <circle id="Oval-5" fill="#FFEFAD" cx="10" cy="6" r="6"></circle>
+                                            <rect id="Rectangle-9" fill="#FFEFAD" x="0" y="16" width="20" height="2" rx="1"></rect>
+                                            <rect id="Rectangle-9" fill="#FFE47A" x="1" y="19" width="18" height="2" rx="1"></rect>
+                                        </g>
+                                        <rect id="Rectangle-10" fill="#807878" x="89" y="0" width="27.6700001" height="29" rx="2"></rect>
+                                        <g id="Group-40" transform="translate(93.000000, 4.000000)" fill="#999494">
+                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
+                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="2" rx="1"></rect>
+                                            <rect id="Rectangle-9" x="1" y="19" width="18" height="2" rx="1"></rect>
+                                        </g>
+                                        <path d="M27,33 L50.6700001,33 C51.7745696,33 52.6700001,33.8954305 52.6700001,35 L52.6700001,54 L25,54 L25,35 C25,33.8954305 25.8954305,33 27,33 Z" id="Rectangle-10" fill="#807878"></path>
+                                        <g id="Group-40" transform="translate(29.000000, 37.000000)" fill="#999494">
+                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
+                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="1" rx="0.5"></rect>
+                                        </g>
+                                        <path d="M59,33 L82.6700001,33 C83.7745696,33 84.6700001,33.8954305 84.6700001,35 L84.6700001,54 L57,54 L57,35 C57,33.8954305 57.8954305,33 59,33 Z" id="Rectangle-10" fill="#807878"></path>
+                                        <g id="Group-40" transform="translate(61.000000, 37.000000)" fill="#999494">
+                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
+                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="1" rx="0.5"></rect>
+                                        </g>
+                                        <path d="M91,33 L114.67,33 C115.77457,33 116.67,33.8954305 116.67,35 L116.67,54 L89,54 L89,35 C89,33.8954305 89.8954305,33 91,33 Z" id="Rectangle-10" fill="#807878"></path>
+                                        <g id="Group-40" transform="translate(93.000000, 37.000000)" fill="#999494">
+                                            <circle id="Oval-5" cx="10" cy="6" r="6"></circle>
+                                            <rect id="Rectangle-9" x="0" y="16" width="20" height="1" rx="0.5"></rect>
+                                        </g>
+                                        <path d="M1,0 L20,0 C20.5522847,-1.01453063e-16 21,0.44771525 21,1 L21,54 L0,54 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-10" fill="#807878"></path>
+                                    </g>
+                                    <circle id="Oval-3" fill="#FF6159" cx="8.5" cy="7.5" r="3.5"></circle>
+                                    <circle id="Oval-3" fill="#FFC12F" cx="18.5" cy="7.5" r="3.5"></circle>
+                                    <circle id="Oval-3" fill="#29CB41" cx="28.5" cy="7.5" r="3.5"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

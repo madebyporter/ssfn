@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="101px" viewBox="0 0 102 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>gigmor-icon-analyzetalent</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3DB9EA" offset="0%"></stop>
+            <stop stop-color="#FFC645" offset="47.5117413%"></stop>
+            <stop stop-color="#FF3232" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gigmor-landing-desktop-copy-11" transform="translate(-1150.000000, -1657.000000)">
+            <g id="Group-13" transform="translate(95.000000, 771.000000)">
+                <g id="Group-8" transform="translate(125.000000, 847.000000)">
+                    <g id="Group-3" transform="translate(800.000000, 0.000000)">
+                        <g id="Group-36" transform="translate(61.000000, 39.000000)">
+                            <g id="gigmor-icon-analyzetalent" transform="translate(69.000000, 0.000000)">
+                                <circle id="Oval" fill="#EBE8E8" cx="50" cy="50" r="50"></circle>
+                                <g id="Group-38" transform="translate(1.000000, 1.000000)">
+                                    <circle id="Oval" fill="#4D4343" cx="50" cy="50" r="50"></circle>
+                                    <path d="M2.01020978,49 C2.54254829,22.9519954 23.8244738,2 50,2 C76.1755262,2 97.4574517,22.9519954 97.9897902,49 L2.01020978,49 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                                    <circle id="Oval" stroke="#383131" stroke-width="2" fill="#807878" cx="50" cy="50" r="39"></circle>
+                                    <text id="100" font-family="NunitoSans-Black, Nunito Sans" font-size="7" font-weight="700" fill="#EBE8E8">
+                                        <tspan x="72" y="52">100</tspan>
+                                    </text>
+                                    <text id="50" font-family="NunitoSans-Black, Nunito Sans" font-size="7" font-weight="700" fill="#EBE8E8">
+                                        <tspan x="47.3" y="22">50</tspan>
+                                    </text>
+                                    <text id="0" font-family="NunitoSans-Black, Nunito Sans" font-size="7" font-weight="700" fill="#EBE8E8">
+                                        <tspan x="17" y="52">0</tspan>
+                                    </text>
+                                    <polygon id="Rectangle-15" fill="#FFFFFF" transform="translate(76.678876, 34.674062) rotate(61.000000) translate(-76.678876, -34.674062) " points="77.3494567 7.43341705 79.1118882 61.9147073 74.2458628 61.2976991"></polygon>
+                                </g>
+                                <g id="Group-39" transform="translate(48.000000, 46.000000)" fill="#F7F5F5" stroke="#383131" stroke-width="4">
+                                    <circle id="Oval-4" cx="4" cy="4" r="6"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
